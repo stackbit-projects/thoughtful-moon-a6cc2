@@ -4,9 +4,7 @@ id: '1'
 price: '49.40'
 title: Small Mobile 3GB
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  Small Mobile plan with 3GB of data per month
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
