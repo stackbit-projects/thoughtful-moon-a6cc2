@@ -12,7 +12,7 @@ order: 1
 category: content/pages/category/bigplants.md
 seo:
   title: Small Mobile 3GB
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: 'Small Mobile plan with 3GB of data per month.'
   extra:
     - name: 'og:type'
       value: website
