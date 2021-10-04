@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
+price: '15.00'
 title: Small Mobile 3GB
 description: >-
   Small Mobile plan with 3GB of data per month.
