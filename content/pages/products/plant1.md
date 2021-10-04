@@ -21,7 +21,7 @@ seo:
       value: Small Mobile 3GB
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'Small Mobile plan with 3GB of data per month.'
       keyName: property
     - name: 'og:image'
       value: images/plant1-lg.jpg
