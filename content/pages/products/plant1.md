@@ -18,7 +18,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: Small Mobile 3GB
       keyName: property
     - name: 'og:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
