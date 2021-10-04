@@ -7,7 +7,7 @@ fetch(templatesUrl)
     .then(response => response.text())
     .then((htmlTemplate) => {
       const fragment = document.createElement('div');
-      let html = htmlTemplate.replace(MTE2MWZhMTYtZTU3NS00MDBjLTlhYjYtNGE3ZWNiNzc3YjJkNjM3NTc5NDkyMDYzMzA0NTQ0g, apiKey);
+      let html = htmlTemplate.replace(MTE2MWZhMTYtZTU3NS00MDBjLTlhYjYtNGE3ZWNiNzc3YjJkNjM3NTc5NDkyMDYzMzA0NTQ0, apiKey);
       fragment.innerHTML = html;
       document.body.appendChild(fragment);
 
