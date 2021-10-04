@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:title'
       value: Small Mobile 3GB
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'Small Mobile plan with 3GB of data per month.'
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
