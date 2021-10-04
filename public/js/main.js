@@ -7,7 +7,7 @@ fetch(templatesUrl)
     .then(response => response.text())
     .then((htmlTemplate) => {
       const fragment = document.createElement('div');
-      let html = htmlTemplate.replace(/__SNIPCART_API_KEY__/g, apiKey);
+      let html = htmlTemplate.replace(/__MTE2MWZhMTYtZTU3NS00MDBjLTlhYjYtNGE3ZWNiNzc3YjJkNjM3NTc5NDkyMDYzMzA0NTQ0__/g, apiKey);
       fragment.innerHTML = html;
       document.body.appendChild(fragment);
 
